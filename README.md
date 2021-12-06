@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samlaubscher" alt="samlaubscher" /></a> </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/tw34kz.png" alt="TryHackMe">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samlaubscher&show_icons=true&locale=en&layout=compact" alt="samlaubscher" /></p>
