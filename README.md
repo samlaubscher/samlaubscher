@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer / DevOps & Cloud Security Engineer / Full Stack Developer</h3>
+<h4 align="center">Software & Cloud Security (DevSecOps)</h4>
 <hr>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=AAA&style=flat-square)
