@@ -4,8 +4,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tw34kz.png" alt="TryHackMe">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samlaubscher&show_icons=true&locale=en&layout=compact" alt="samlaubscher" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samlaubscher&show_icons=true&locale=en" alt="samlaubscher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samlaubscher&" alt="samlaubscher" /></p>
