@@ -3,7 +3,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=samlaubscher&theme=matrix&column=8&margin-w=15&margin-h=15" alt="samlaubscher" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samlaubscher&show_icons=true&locale=en&theme=synthwave&count_private=true&include_all_commits=true&hide_rank=true" alt="samlaubscher" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samlaubscher&locale=en&theme=synthwave&count_private=true&include_all_commits=true" alt="samlaubscher" />
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samlaubscher&theme=synthwave" alt="samlaubscher" /></p>
 
