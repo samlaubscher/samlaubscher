@@ -1,4 +1,5 @@
 <h3 align="center">Software Engineer / DevOps & Cloud Security Engineer / Full Stack Developer</h3>
+<hr>
 
 <img src="https://github-profile-trophy.vercel.app/?username=samlaubscher&theme=matrix&column=8&margin-w=15&margin-h=15" alt="samlaubscher" />
 
