@@ -1,4 +1,4 @@
-<h4 align="center">Current Job - </h4><h3 align="center">Software & Cloud Security (DevSecOps)</h3>
+<h4 align="center">Current Job - </h4>&nbsp<h3 align="center">Software & Cloud Security (DevSecOps)</h3>
 <hr>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=AAA&style=flat-square)
