@@ -1,5 +1,5 @@
 <h3 align="center">Software & Cloud Security Engineer (DevSecOps)</h3>
-
+<hr>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=AAA&style=flat-square)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=AAA&style=flat-square)
