@@ -1,4 +1,4 @@
-<h3 align="center">Software & Cloud Security Engineer (DevSecOps)</h3>
+**Software & Cloud Security Engineer (DevSecOps)** &#12299;_Current Employment_
 <hr>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=AAA&style=flat-square)
