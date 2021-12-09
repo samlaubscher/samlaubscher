@@ -1,4 +1,4 @@
-_Current Job_ &#12299;**Junior Software & Cloud Security Engineer (DevSecOps)**
+_Current Job_ &#12299;**Software & Cloud Security Engineer (DevSecOps)**
 <hr>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=AAA&style=flat-square)
