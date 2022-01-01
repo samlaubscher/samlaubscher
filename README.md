@@ -19,5 +19,3 @@ _Current Job_ &#12299;**Software & Cloud Security Engineer (DevSecOps)**
 <p><img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=samlaubscher&locale=en&theme=synthwave&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&show_icons=true" alt="samlaubscher" />
 
 <img width="450" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samlaubscher&theme=synthwave" alt="samlaubscher" /></p>
-
-<p><img src="https://tryhackme-badges.s3.amazonaws.com/tw34kz.png" alt="TryHackMe"></p>
