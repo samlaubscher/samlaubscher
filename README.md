@@ -1,5 +1,7 @@
-_Current Job_ &#12299;**Jr. Software & Cloud Security Engineer (DevSecOps)**
-<hr>
+<p><img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=samlaubscher&locale=en&theme=synthwave&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&show_icons=true" alt="samlaubscher" />
+
+<img width="450" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samlaubscher&theme=synthwave" alt="samlaubscher" /></p>
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=AAA&style=flat-square)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=AAA&style=flat-square)
@@ -13,7 +15,3 @@ _Current Job_ &#12299;**Jr. Software & Cloud Security Engineer (DevSecOps)**
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=AAA&style=flat-square)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=AAA&style=flat-square)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=AAA&style=flat-square)
-
-<p><img width="350" align="left" src="https://github-readme-stats.vercel.app/api?username=samlaubscher&locale=en&theme=synthwave&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&show_icons=true" alt="samlaubscher" />
-
-<img width="450" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samlaubscher&theme=synthwave" alt="samlaubscher" /></p>
